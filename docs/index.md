@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Here we can find info on the [math](./math.md), [code](./code.md), and [chem](./chem.md).
 
-Here's a [python script](./assets/files/umbrella_setup.py), a [jupyter notebook](./assets/files/'3.4 Phase Diagram of Sulfur.nb'), and a [mathematica notebook](./assets/files/ext_charge_test.ipynb)
+Here's a [python script](./assets/files/umbrella_setup.py), a [mathematica notebook](./assets/files/3.4\ Phase\ Diagram\ of\ Sulfur.nb'), and a [jupyter notebook](./assets/files/ext_charge_test.ipynb)
 
 ### Markdown
 
