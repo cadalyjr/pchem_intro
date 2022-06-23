@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/cadalyjr/pchem_intro/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Here we can find info on the [math](./math.md), [code](./code.md), and [chem](./chem.md)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
