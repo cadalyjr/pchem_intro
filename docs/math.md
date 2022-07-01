@@ -22,7 +22,7 @@ ___
     - FTC
     - Something like an Integral table
     - Doing integrals with polar coordinates
-    - multiple integrals at once
+    - Multiple integrals at once
     - Summation
 
 ## **Algebra and other Number Manipulation Skills:**
