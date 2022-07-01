@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
 title: PChem and QChem Prep Material
 tagline: A reintroduction and reframing of some concepts that will be helpful for PChem and QChem
-url: hc304305.com
+markdown: kramdown
