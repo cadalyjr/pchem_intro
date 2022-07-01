@@ -6,7 +6,13 @@ use_math: true
 
 Can you use latex?
 
-$$-\frac{\partial V(r)}{r}$$
+$$
+-\frac{\partial V(r)}{r}
+$$
+
+$$
+K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar)
+$$
 
 # Mathematics Concepts
 
