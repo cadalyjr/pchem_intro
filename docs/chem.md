@@ -1,6 +1,8 @@
+---
 layout: page  
-title: Math Intro/Review  
-permalink: /math/  
+title: Chemistry Concepts
+permalink: /chem/  
+---
 
 ## Chem 111/113  
 

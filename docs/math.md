@@ -1,6 +1,7 @@
 --- 
-title: Math Intro/Review
-permalink: math
+layout: page
+title: Math Review
+permalink: /math/
 usemathjax: true
 ---
 

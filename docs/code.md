@@ -1,7 +1,8 @@
-test
+---
 layout: page
-title: Math Intro/Review
-permalink: /math/
+title: Code Intro
+permalink: /code/
+---
 
 ## Mathematica  
 ### Mathematica Tutorial and Guide notebook (insert link when complete)
