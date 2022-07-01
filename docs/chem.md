@@ -34,8 +34,10 @@ C_1\left(\begin{matrix}
 ### Enthalpy
 ### Entropy
 ### Gibbs Free Energy  
-delta(G) < 0: spontaneous 
+delta(G) < 0: spontaneous
+
 delta(G) = 0: equilibrium
+
 delta(G) > 0: non-spontaneous
 ### Thermodynamic Laws
 ## First Law
