@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: PChem and QChem Prep Material
-math_engine: mathjax
+#math_engine: mathjax
 markdown: kramdown
 tagline: A reintroduction and reframing of some concepts that will be helpful for PChem and QChem
