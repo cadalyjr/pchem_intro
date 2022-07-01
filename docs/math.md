@@ -31,7 +31,7 @@ $$-\frac{\partial V(r)}{r}$$
       - Stirlings Approximation
   2. Trigonometry Functions and Identities
   3. Unit Circle
-      - ![image](Unit_circle_angles_color.svg)
+      - ![image](The-Unit-Circle.jpg)
   4. Series and Series Expansions
 
 ## Algebra
