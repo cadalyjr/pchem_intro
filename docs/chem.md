@@ -31,9 +31,12 @@ C_1\left(\begin{matrix}
 0\\0\\0\\1\\0
 \end{matrix}\right)$$
 ### Energy Levels (electronic, vibrational, rotational, translational)  
-### Enthalpy  
+### Enthalpy
 ### Entropy
 ### Gibbs Free Energy  
+delta(G) < 0: spontaneous 
+delta(G) = 0: equilibrium
+delta(G) > 0: non-spontaneous
 ### Thermodynamic Laws
 ## First Law
 ## Second Law  
