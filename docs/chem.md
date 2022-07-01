@@ -22,7 +22,7 @@ permalink: /math/
 ### Endo- vs Exo-thermic Processes
 ### Work and Force  
 
-##Organic
+## Organic
 
 
 ## Additional Outside Resources:
