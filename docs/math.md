@@ -4,4 +4,4 @@ permalink: /math/
 
 Can you use latex?
 
-$-\frac{\partial V(r)}{r}$
+$$-\frac{\partial V(r)}{r}$$
