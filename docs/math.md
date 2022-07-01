@@ -4,7 +4,6 @@ permalink: /math/
 usemathjax: true
 ___
 
-=======
 Can you use latex?
 
 $$-\frac{\partial V(r)}{r}$$
@@ -39,6 +38,7 @@ $$-\frac{\partial V(r)}{r}$$
   1. Multiplying One by One
   2. FOIL
   3. Deriving Equations
+  4. Solving a System of Equations
 
 ## Linear Algebra
   1. Eigen Functions
@@ -59,5 +59,3 @@ $$-\frac{\partial V(r)}{r}$$
   7. Factorials
 
 ## Additional Resources
-=======
->>>>>>> 70afbf6884aba01b06029da4bcf92ed3d36d69c3
