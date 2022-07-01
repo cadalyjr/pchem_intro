@@ -20,7 +20,7 @@ permalink: /math/
 ### Endo vs Exothermic
 ### Work and Force  
 
-##Organic
+## Organic
 
 
 ## Additional Outside Resources:
