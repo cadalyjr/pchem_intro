@@ -1,7 +1,7 @@
 ___
 title: Math Intro/Review
 permalink: /math/
-use_math: true
+usemathjax: true
 ___
 
 Can you use latex?
@@ -31,6 +31,7 @@ $$-\frac{\partial V(r)}{r}$$
       - Stirlings Approximation
   2. Trigonometry Functions and Identities
   3. Unit Circle
+      - ![image](The-Unit-Circle.jpg)
   4. Series and Series Expansions
 
 ## Algebra
