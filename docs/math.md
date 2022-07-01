@@ -26,6 +26,8 @@ $$-\frac{\partial V(r)}{r}$$
 
 ## Trigonometry
   1. Logarithms
+      - Logarithmic Formatting
+          ![image](assets/images/Logs.png)
       - Natural Logarithms
       - Manipulation
       - Stirlings Approximation
