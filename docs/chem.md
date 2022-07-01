@@ -41,7 +41,7 @@ C_1\left(\begin{matrix}
 ### Endo- vs Exo-thermic Processes
 ### Work and Force  
 
-##Organic
+## Organic
 
 
 ## Additional Outside Resources:
