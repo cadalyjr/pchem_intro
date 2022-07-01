@@ -12,9 +12,12 @@ permalink: /math/
 ### Kinetics
 ### Gas Laws
 ### Energy Levels (electronic, vibrational, rotational, translational)  
-### Enthalpy  
+### Enthalpy
 ### Entropy
 ### Gibbs Free Energy  
+delta(G) < 0: spontaneous 
+delta(G) = 0: equilibrium
+delta(G) > 0: non-spontaneous
 ### Thermodynamic Laws
 ## First Law
 ## Second Law  
