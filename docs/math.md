@@ -1,6 +1,6 @@
 ___
 title: Math Intro/Review
-permalink: /math/
+permalink: math
 usemathjax: true
 ___
 
