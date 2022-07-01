@@ -2,6 +2,7 @@ layout: page
 title: Math Intro/Review
 permalink: /math/
 
+<<<<<<< HEAD
 :cookie:
 
 ## **Calculus Skills Section:**
@@ -48,3 +49,8 @@ permalink: /math/
     - Factorials
 
 ## *Additional Outside Resources:*
+=======
+Can you use latex?
+
+$$-\frac{\partial V(r)}{r}$$
+>>>>>>> 4e47a5f3d5b3849d95f448ff1139c77dc4807314
