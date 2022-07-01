@@ -1,8 +1,8 @@
-___
+--- 
 title: Math Intro/Review
 permalink: math
 usemathjax: true
-___
+---
 
 Can you use latex?
 
