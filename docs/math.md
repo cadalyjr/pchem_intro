@@ -1,6 +1,9 @@
-layout: page
+___
+layout: default
 title: Math Intro/Review
 permalink: /math/
+use_math: true
+___
 
 Can you use latex?
 
@@ -54,4 +57,6 @@ $$-\frac{\partial V(r)}{r}$$
   6. Probability
   7. Factorials
 
-## Additional Resources 
+## Additional Resources
+=======
+>>>>>>> 70afbf6884aba01b06029da4bcf92ed3d36d69c3

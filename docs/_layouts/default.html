@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+  <head>
+	{% if page.use_math %}
+	{% include mathjax_support.html %}
+	{% endif %}
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    {{ content }}
+  </body>
+</html>
