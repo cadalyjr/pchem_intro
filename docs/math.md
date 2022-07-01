@@ -1,7 +1,7 @@
 ___
 title: Math Intro/Review
 permalink: /math/
-use_math: true
+usemathjax: true
 ___
 
 Can you use latex?
