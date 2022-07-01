@@ -11,13 +11,15 @@ permalink: /math/
 ### Phase Diagrams
 ### Kinetics
 ### Gas Laws
-### Quantum Numbers and energy levels (electronic, vibrational, rotational, translational)  
+### Energy Levels (electronic, vibrational, rotational, translational)  
 ### Enthalpy  
 ### Entropy
 ### Gibbs Free Energy  
-### Thermodynamic Laws  
+### Thermodynamic Laws
+## First Law
+## Second Law  
 ### Heat Capacity  
-### Endo vs Exothermic
+### Endo- vs Exo-thermic Processes
 ### Work and Force  
 
 ##Organic
