@@ -1,4 +1,4 @@
-## Welcome to the Haverford CHEM304 and CHEM305 Preperation Site! It's still being built - thanks for your patience!
+## Welcome to the Haverford CHEM304 and CHEM305 Preparation Site! It's still being built - thanks for your patience!
 
 You can use the [editor on GitHub](https://github.com/cadalyjr/pchem_intro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -26,6 +26,8 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+
+$$-\frac{\partial V(r)}{r}$$
 
 [Link](url) and ![Image](src)
 ```

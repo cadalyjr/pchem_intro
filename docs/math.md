@@ -1,59 +1,61 @@
 ___
-layout: default
 title: Math Intro/Review
 permalink: /math/
-use_math: true
+usemathjax: true
 ___
 
-<<<<<<< HEAD
-:cookie:
-
-## **Calculus Skills Section:**
-### Derivatives Review
-    - General what are derivatives and why useful
-    - Limits
-    - First Derivatives and interpretations of critical points
-    - Second Derivatives and beyond, interpretations of critical points
-    - Partial Derivatives and interpretations of critical points
-    - Inexact vs Exact Differentials and interpretations
-    - Total Derivatives
-
-### Integrals Review
-    - FTC
-    - Something like an Integral table
-    - Doing integrals with polar coordinates
-    - multiple integrals at once
-    - Summation
-
-## **Algebra and other Number Manipulation Skills:**
-### Algebra Review
-    - Multiplying by one
-    - FOIL
-    - Add more
-    - Deriving Equations
-### Random Number Stuff Review
-    - Logarithms
-      - Natural
-      - Logarithm manipulation (addition, subtraction, multiplication, division, etc)
-      - Stirling's Approximation
-      - Base not e
-    - Trig Functions and Identities
-    - Unit Circle
-    - Series and Series Expansions
-
-## **Statistics:**
-### Statistics Review
-    - Normalization
-    - Expectation Values
-    - Standard Deviation
-    - Variance
-    - Mean, median, mode, etc.
-    - Probability
-    - Factorials
-
-## *Additional Outside Resources:*
-=======
 Can you use latex?
 
 $$-\frac{\partial V(r)}{r}$$
->>>>>>> 4e47a5f3d5b3849d95f448ff1139c77dc4807314
+
+# Mathematics Concepts
+
+## Calculus
+  1. Derivation
+      - What are derivatives?
+      - First Derivatives
+      - Second Derivatives and Beyond
+      - Critical Points
+      - Inexact and Exact Differentials
+  2. Integration
+      - Fundamental Theorem of Calculus
+      - Integral Table
+      - Polar Coordinates
+      - Multiple Integration
+  3. Summation
+
+## Trigonometry
+  1. Logarithms
+      - Natural Logarithms
+      - Manipulation
+      - Stirlings Approximation
+  2. Trigonometry Functions and Identities
+  3. Unit Circle
+      - ![image](The-Unit-Circle.jpg)
+  4. Series and Series Expansions
+
+## Algebra
+  1. Multiplying One by One
+  2. FOIL
+  3. Deriving Equations
+  4. Solving a System of Equations
+
+## Linear Algebra
+  1. Eigen Functions
+      - Eigen Function:
+      - Eigen Value:
+      - Eigen Vector:
+  2. Dot Product
+  3. Orthogonality
+  4. Determinants
+
+## Statistics
+  1. Normalization
+  2. Expectation Values
+  3. Standard Deviation
+  4. Variance
+  5. Mean, median, mode, etc.
+  6. Probability
+  7. Factorials
+
+## Additional Resources
