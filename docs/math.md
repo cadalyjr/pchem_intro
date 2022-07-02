@@ -1,4 +1,5 @@
 --- 
+{% include head.html %}
 title: Math Review
 permalink: /math/
 usemathjax: true
