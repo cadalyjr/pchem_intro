@@ -2,7 +2,9 @@
 layout: page
 title: Code Intro
 permalink: /code/
+usemathjax: true
 ---
+{% include head.html %}
 
 ## Mathematica  
 ### Mathematica Tutorial and Guide notebook (insert link when complete)

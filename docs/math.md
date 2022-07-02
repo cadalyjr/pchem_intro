@@ -1,11 +1,10 @@
 --- 
+layout: page
 title: Math Review
 permalink: /math/
 usemathjax: true
 ---
 {% include head.html %}
-
-Can you use latex?
 
 $$ 
 -\frac{\partial V(r)}{r} 
@@ -32,8 +31,8 @@ $$ K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar) $$
 ## Trigonometry
   1. Logarithms
       - Logarithmic Formatting
-           $$\log_b n = a \textrm{and} b^a = n$$
-          ![image](assets/images/Logs.png)
+           - $$\log_b n = a \textrm{and } b^a = n$$
+           - ![image](assets/images/Logs.png)
       - Natural Logarithms
       - Manipulation
       - Stirlings Approximation

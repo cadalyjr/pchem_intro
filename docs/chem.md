@@ -2,7 +2,9 @@
 layout: page  
 title: Chemistry Concepts
 permalink: /chem/  
+usemathjax: true
 ---
+{% include head.html %}
 
 ## Chem 111/113  
 
