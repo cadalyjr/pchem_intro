@@ -16,7 +16,7 @@ $$ K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar) $$
 # Mathematics Concepts
 
 ## Calculus
-  1. Derivation
+  1. Diffentiation
       - What are derivatives?
       - First Derivatives
       - Second Derivatives and Beyond
