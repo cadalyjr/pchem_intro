@@ -1,9 +1,9 @@
 --- 
-{% include head.html %}
 title: Math Review
 permalink: /math/
 usemathjax: true
 ---
+{% include head.html %}
 
 Can you use latex?
 
