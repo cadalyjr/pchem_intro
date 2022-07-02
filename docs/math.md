@@ -3,13 +3,12 @@ title: Math Review
 permalink: /math/
 usemathjax: true
 ---
+{% include head.html %}
 
 Can you use latex?
 
 $$ 
-\begin{displaymath}
 -\frac{\partial V(r)}{r} 
-\end{displaymath}
 $$
 
 $$ K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar) $$
