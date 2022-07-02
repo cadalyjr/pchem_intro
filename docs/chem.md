@@ -1,5 +1,4 @@
 ---
-layout: page  
 title: Chemistry Concepts
 permalink: /chem/  
 usemathjax: true
