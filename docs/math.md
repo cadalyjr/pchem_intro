@@ -14,18 +14,20 @@ $$ K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar) $$
 # Mathematics Concepts
 
 ## Calculus
-  1. Diffentiation
+  1. Limits
+      - A limit is denoted by a formula similar to $$\lim_{v \to l} f(v)$$ where $$v$$ is some 
+  2. Diffentiation
       - What are derivatives?
       - First Derivatives
       - Second Derivatives and Beyond
       - Critical Points
       - Inexact and Exact Differentials
-  2. Integration
+  3. Summation
+  4. Integration
       - Fundamental Theorem of Calculus
       - Integral Table
       - Polar Coordinates
       - Multiple Integration
-  3. Summation
 
 ## Trigonometry
   1. Logarithms
