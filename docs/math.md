@@ -30,7 +30,7 @@ $$ K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar) $$
 ## Trigonometry
   1. Logarithms
       - Logarithmic Formatting
-           - \\(\log_b n = a \textrm{ and } b^a = n\)
+           - \\(\log_b n = a \textrm{ and } b^a = n\\)
            - ![image](assets/images/Logs.png)
       - Natural Logarithms
       - Manipulation
