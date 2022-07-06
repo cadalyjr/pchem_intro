@@ -14,6 +14,21 @@ usemathjax: true
 ### Phase Diagrams
 ### Kinetics
 ### Gas Laws
+Kinetic Theory of Gases
+
+
+
+Ideal Gas Equation of State
+
+
+
+van der Waals Equation
+
+
+
+Redlich-Kwong Equation
+
+
 #### Ideal gas law Equation: PV = nRT
 $$\left(\begin{matrix}
 1\\0\\0\\0\\0
@@ -51,9 +66,11 @@ delta(G) < 0: spontaneous
 delta(G) = 0: equilibrium
 
 delta(G) > 0: non-spontaneous
-### Thermodynamic Laws
-## First Law
-## Second Law  
+## Thermodynamic Laws
+### First Law
+### Second Law  
+
+
 ### Heat Capacity  
 ### Endo- vs Exo-thermic Processes
 ### Work and Force  
