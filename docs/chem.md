@@ -39,6 +39,12 @@ Internal energy is the sum of all the energy of all the particles in the system.
 ### Enthalpy
 For a process where pressure volume work is the only work done on the system the first law of thermodynamics is that change in internal energy is equal to q+w or q minus the integral of PdV from V1 to V2. Therefore, if we are at a constant volume our change in internal energy is just equal to qv (subscript the v to indicate volume). We can also do processes at constant pressure whereby change in U is equal to qp (subscript the p to indicate pressure) - PdeltaV which can be arranged to equal qp = deltaU + PdeltaV. If we define a new state function, Enthalpy (H), as H = U + PV we can see that deltaH = deltaU + delta(P*V) where at constant pressure deltaH = deltaU + PdeltaV. We can see then that deltaH is equal to qp. Therefore at a constant pressure H virtually works the same as U when there is constant volume.
 ### Entropy
+From the first law of thermodynamics we can come up with the idea that energy is conserved and thus the change of energy in the universe (universe being a little abstract in that it is both our system and the surroundings) must be equal to 0. If the change in energy is always equal to 0 how does anything actually occur? For systems that release energy to the surroundings the explanation is relatively intuitive but for systems which absorb energy (moving to higher energy levels) there needs to be some way to explain why this occurs. This is the idea of entropy (S), a state function (we will discuss more this semester as to what entropy actually is). The second law of thermodynamics states that the change in entropy of the universe is equal to the change of entropy of the system and the change in entropy of the surroundings. This change in entropy of the universe must be greater than 0.
+
+One way to think about entropy is through a probability lens. Entropy can be related to the Boltzmann constant where S = klnW where W is equal to n!/(n0!n1!n2!...nj!). Where n is the number of particles in the system. From this definition we can see that entropy will increase when the number of particles in a system increases. If we refer back to the Boltzmann distribution section we can also see that the entropy of the system will increase as the temperature increases.
+
+
+
 ### Gibbs Free Energy  
 delta(G) < 0: spontaneous
 
