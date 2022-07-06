@@ -33,8 +33,11 @@ C_1\left(\begin{matrix}
 +C_5\left(\begin{matrix}
 0\\0\\0\\1\\0
 \end{matrix}\right)$$
-### Energy Levels (electronic, vibrational, rotational, translational)  
+### Energy Levels (electronic, vibrational, rotational, translational)
+### Internal Energy
+Internal energy is the sum of all the energy of all the particles in the system. Internal energy is denoted with the symbol U. When we are referring to internal energy it is important to note that we are alluding to a state function. State functions or state variables are properties of a system that are determined by the current state of the system rather than the path which the system that got to that state (conveniently these are called path functions). We can see changes in the internal energy of a system in a couple of ways: the first (and one that we tend to not think about a lot and ignore) is by changing the number of particles within a system. The second and third are much more important and are heat (q) and work (w). Thus we can think about a change in internal energy as the sum of the heat added to and work applied to the system. While internal energy is a state function, heat and work are both path dependent. We will discuss work more thoroughly in another section of this website.
 ### Enthalpy
+For a process where pressure volume work is the only work done on the system the first law of thermodynamics is that change in internal energy is equal to q+w or q minus the integral of PdV from V1 to V2. Therefore, if we are at a constant volume our change in internal energy is just equal to qv (subscript the v to indicate volume). We can also do processes at constant pressure whereby change in U is equal to qp (subscript the p to indicate pressure) - PdeltaV which can be arranged to equal qp = deltaU + PdeltaV. If we define a new state function, Enthalpy (H), as H = U + PV we can see that deltaH = deltaU + delta(P*V) where at constant pressure deltaH = deltaU + PdeltaV. We can see then that deltaH is equal to qp. Therefore at a constant pressure H virtually works the same as U when there is constant volume.
 ### Entropy
 ### Gibbs Free Energy  
 delta(G) < 0: spontaneous
