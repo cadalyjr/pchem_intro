@@ -68,9 +68,9 @@ We can also do processes at constant pressure whereby change in U is equal to qp
 If we define a new state function,
 Enthalpy ($H$), as
 $$H = U + PV$$
-we can see that
-$$\Delta H = \Delta U + \Delta (P*V)$$
-where at constant pressure 
+we can see that (by the chain rule in calculus)
+$$\Delta H = \Delta U + \Delta (PV) = \Delta U + P \Delta V + V \Delta P $$
+where at constant pressure
 $$\Delta H = \Delta U + P \Delta V$$.
 We can see then that $\Delta H$ is equal to $q_p$.
 Therefore at a constant pressure $H$
