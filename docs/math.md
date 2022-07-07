@@ -22,6 +22,7 @@ $$ K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar) $$
       - Second Derivatives and Beyond
       - Critical Points
       - Inexact and Exact Differentials
+	$\frac{\partial f(x)}{\partial x} = f'(x)$
   3. Summation
   4. Integration
       - Fundamental Theorem of Calculus
