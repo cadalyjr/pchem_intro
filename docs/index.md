@@ -1,43 +1,24 @@
-## Welcome to the Haverford CHEM304 and CHEM305 Preparation Site! It's still being built - thanks for your patience!
+## Welcome to the Haverford CHEM304 and CHEM305 Preparation Site! (still under construction)
 
-You can use the [editor on GitHub](https://github.com/cadalyjr/pchem_intro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Physical Chemistry courses can be quite intimidating for a variety of reasons. One of those reasons is that there
+are skills that are quite useful in Phyiscal Chemistry that are not so often used in, say, organic chemistry. 
+The goal of this website is to help provide a one-stop-shop to review and reference material related to those 
+skills. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We've subdivided the resources on this website into three categories: [math](./math.md), [code](./code.md), and [chem](./chem.md).
 
-Here we can find info on the [math](./math.md), [code](./code.md), and [chem](./chem.md).
+On the [math](./math.md) page, you'll find descriptions of the math skills needed for Physical Chemistry as 
+you may have seen them in Math 118, 121, 215, or 216. You will also find links to youtube videos or other resources
+where you can review and refresh your memory.
 
-Here's a [python script](./assets/files/umbrella_setup.py), a [mathematica notebook](./assets/files/3.4\ Phase\ Diagram\ of\ Sulfur.nb'), and a [jupyter notebook](./assets/files/ext_charge_test.ipynb)
+On the [code](./code.md) page, you'll find python and mathematica notebooks containing sample solutions
+to a wide variety of book problems from *Molecular Thermodynamics* by McQuarrie and Simon. You will
+also find a pair of introductory notebooks to help acclimate you to using these coding 
+languages for your homework.
 
-### Markdown
+Finally, on the [chem](./chem.md) page, you'll find review material meant to remind you 
+what you learned in Chem 112/114 and resources to refresh your memory.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Glad to see you on this page, and I'm excited to see you this fall!
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-$$-\frac{\partial V(r)}{r}$$
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cadalyjr/pchem_intro/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This website was developed by the Daly research group at Haverford in Summer 2022.
