@@ -15,9 +15,11 @@ $$ K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar) $$
 
 ## Calculus
   1. Limits
-      - A limit is denoted by a formula similar to $$\lim_{v \to l} f(v)$$ where $$v$$ is some 
+      - A limit is denoted by a formula similar to $$\lim_{v \to 0} f(v)$$ where this represents some function where $v$ is approaching 0. 
   2. Diffentiation
       - What are derivatives?
+        - A derivative is the instantuous rate of change of a given function. For example: $$\frac{d}{dx}(2x)=2$$ is the derivative of 2x with respect to x, and the answer 2 is the slope/rate of change of 2x at all points on the function. 
+        - The formal definition of a derivative is provided through this formula: $$f'(x)=\lim_{\Delta x \to 0} \frac{f(x+\Delta x)-f(x)}{\Delta x}$$
       - First Derivatives
       - Second Derivatives and Beyond
       - Critical Points
