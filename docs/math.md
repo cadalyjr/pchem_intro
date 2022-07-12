@@ -1,43 +1,53 @@
-___
-title: Math Intro/Review
+--- 
+title: Math Review
 permalink: /math/
-use_math: true
-___
+usemathjax: true
+---
+{% include head.html %}
 
-Can you use latex?
+$$ 
+-\frac{\partial V(r)}{r} 
+$$
 
-$$-\frac{\partial V(r)}{r}$$
+$$ K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar) $$
 
 # Mathematics Concepts
 
 ## Calculus
-  1. Derivation
+  1. Limits
+      - A limit is denoted by a formula similar to $$\lim_{v \to l} f(v)$$ where $$v$$ is some 
+  2. Diffentiation
       - What are derivatives?
       - First Derivatives
       - Second Derivatives and Beyond
       - Critical Points
       - Inexact and Exact Differentials
-  2. Integration
+	$\frac{\partial f(x)}{\partial x} = f'(x)$
+  3. Summation
+  4. Integration
       - Fundamental Theorem of Calculus
       - Integral Table
       - Polar Coordinates
       - Multiple Integration
-  3. Summation
 
 ## Trigonometry
   1. Logarithms
+      - Logarithmic Formatting
+           - \\(\log_b n = a \textrm{ and } b^a = n\\)
+           - ![image](assets/images/Logs.png)
       - Natural Logarithms
       - Manipulation
       - Stirlings Approximation
   2. Trigonometry Functions and Identities
   3. Unit Circle
-      - ![image](Unit_circle_angles_color.svg)
+      - ![image](assets/images/The-Unit-Circle.jpg)
   4. Series and Series Expansions
 
 ## Algebra
   1. Multiplying One by One
   2. FOIL
   3. Deriving Equations
+  4. Solving a System of Equations
 
 ## Linear Algebra
   1. Eigen Functions
@@ -58,5 +68,3 @@ $$-\frac{\partial V(r)}{r}$$
   7. Factorials
 
 ## Additional Resources
-=======
->>>>>>> 70afbf6884aba01b06029da4bcf92ed3d36d69c3
