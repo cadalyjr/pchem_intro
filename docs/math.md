@@ -52,6 +52,15 @@ $$\frac{d}{dx}\left(\frac{f(x)}{g(x)}\right)=\frac{g(x)f'(x)-g'(x)f(x)}{(g(x))^2
 
 $$\frac{d}{dx}\Bigl[f(g(x))\Bigl]=f'(g(x))g'(x)$$
 
+Below information probably not needed
+
+~~The formal definition of a derivative is defined from this limit definition:~~ 
+
+$$\xcancel{\lim_{\Delta x \to 0} \frac{f(x+\Delta x)-f(x)}{\Delta x}=f'(x)}$$
+
+~~What is this limit definition saying?~~
+
+### <ins>Derivative Analysis:</ins>
 With derivatives, we can figure out a lot of interesting information about any particular function. Two important
 things we can learn about any function can be derived through its first and second derivatives. Take this function: 
 
@@ -62,15 +71,18 @@ And when graphed, looks like this:
   <img src="assets/images/function2_x^3+x^2.png" width="300"/>
 </p>
 <br/><br/>
-Below information probably not needed
 
-~~The formal definition of a derivative is defined from this limit definition:~~ 
+When you take the derivative of this function, what does the answer tell you? Well, we know that the first derivative 
+tells us the slope of our graph. For example:
 
-$$\xcancel{\lim_{\Delta x \to 0} \frac{f(x+\Delta x)-f(x)}{\Delta x}=f'(x)}$$
+$$f(x)=x^3+x^2\rightarrow f'(x)=3x^2+2x$$
 
-~~What is this limit definition saying?~~
+tells us that the slope of $f(x)$ is $3x^2+2x$ for all $x$. How about if we take the derivative again? Then, we have
 
+$$f'(x)=3x^2+2x\rightarrow f''(x)=6x+2$$
 
+which tells us that the slope $f'(x)$ is $6x+2$ for all $x$. There are many different interesting things that we can learn 
+about $f(x)$ given $f'(x)$ and $f''(x)$
 - Second Derivatives and Beyond 
 - Critical Points
 - Inexact and Exact Differentials
