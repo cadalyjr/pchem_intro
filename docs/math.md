@@ -57,7 +57,8 @@ This is the simple idea of a limit, and we use this definition to define the res
 
 ## Algebra
   1. Multiplying One by One
-  2. FOIL
+$$\frac{2+2}{4}$$
+  3. FOIL
 	$$(a+b)(c+d)$$
 	This will be in-line: $(a+b)(c+d)$
   4. Deriving Equations
