@@ -86,7 +86,7 @@ tells us that the slope of $f(x)$ is $3x^2+2x$ for all $x$. How about if we take
 $$f'(x)=3x^2+2x\rightarrow f''(x)=6x+2$$
 
 which tells us that the slope $f'(x)$ is $6x+2$ for all $x$. There are many different interesting things that we can learn 
-about $f(x)$ given $f'(x)$ and $f''(x)$
+about $f(x)$ given $f'(x)$ and $f''(x)$. Here are the various things you can learn from these new derivative functions:
 - Second Derivatives and Beyond 
 - Critical Points
 - Inexact and Exact Differentials
