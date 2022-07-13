@@ -4,7 +4,7 @@ Physical Chemistry courses can be quite
 intimidating for a variety of reasons.
 One of those reasons is that there
 are skills that are quite useful in Phyiscal Chemistry
-that are not so often used in, say, organic chemistry.
+that are not so often used in, say, Organic Chemistry.
 The goal of this website is to help provide a one-stop-shop
 to review and reference material related to those
 skills.
