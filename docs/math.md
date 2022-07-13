@@ -6,8 +6,8 @@ usemathjax: true
 
 {% include head.html %}
 
-## Calculus
-<ins>Limits:</ins>
+# Calculus
+### <ins>Limits:</ins>
 
 A limit is one of the most important parts of calculus. The idea of a limit sets the foundation 
 of everything in calculus such that every formal definition of a derivative and an integral is defined 
@@ -16,7 +16,7 @@ $$\lim_{x \to 0} (3x+1)$$
 where the function $3x+1$ looks like this:
 
 <p align="center">
-  <img src="assets/images/function_3x+1.png" width="300"/>
+  <img src="assets/images/function1_3x+1.png" width="300"/>
 </p>
 
 and what our limit is asking is this: as $x$ approaches $0$, what does the function $3x+1$ equal? 
@@ -26,33 +26,41 @@ $$\lim_{x \to 0} (3x+1)=1$$
 
 This is the simple idea of a limit, and we use this definition to define the rest of calculus. 
 
-<ins>Diffentiation/Derivative:</ins>
+### <ins>Diffentiation/Derivative:</ins>
 
 A derivative is the instantaneous rate of change (can be visualized by the line tangent to the graph 
-at a particular point) of a given function. For example: $$\frac{d}{dx}(2x)=2$$ is the derivative of 
-$2x$ with respect to $x$, and the answer $2$ is the slope/rate of change of $2x$ at all points on the 
-function. This makes sense since the function $y=mx$ states that $m$ is the slope of the function $y$. 
-Therefore, the slope of $y=2x$ is $2$ which is what our derivative calculates. This definition of a 
-derivative generalizes to all functions! A function's instantaneous rate of change at any point can be 
-calculated through a derivative. Here are some differentation techniques that you will need to know:
+at a particular point) of a given function. Another way to think about it, the derivative is the **SLOPE** of the graph! For example: 
+$$\frac{d}{dx}(2x)=2$$ 
+is the derivative of $2x$ with respect to $x$, and the answer $2$ is the slope/rate of change of $2x$ at all points 
+on the function. This makes sense since the function $y=mx$ states that $m$ is the slope of the function $y$. 
+Therefore, the slope/derivative of $y=2x$ is $2$. This understanding of a derivative generalizes to all functions! A function's instantaneous rate of change at any point can be calculated through its derivative. Here are some 
+differentation techniques that you will need to know:
 <br/><br/>
-Power Rule:
+1. Power Rule:
 
 $$\frac{d}{dx}(x^n)=nx^{n-1}$$
 
-Product Rule:
+2. Product Rule:
 
 $$\frac{d}{dx}\Bigl(f(x)g(x)\Bigl)=f(x)g'(x)+f(x)g'(x)$$
 
-Quotient Rule:
+3. Quotient Rule:
 
 $$\frac{d}{dx}\left(\frac{f(x)}{g(x)}\right)=g'(x)f(x)-g(x)f'(x)$$
 
-Chain Rule (derivative of the inside multiplied by the derivative of the outside):
+4. Chain Rule (derivative of the inside multiplied by the derivative of the outside):
 
 $$\frac{d}{dx}\Bigl[f(g(x))\Bigl]=f'(g(x))g'(x)$$
 
+With derivatives, we can figure out a lot of interesting information about any particular function. Two important
+things we can learn about any function can be derived through its first and second derivatives. Take this function: 
 
+$$f(x)=x^3+x^2$$
+
+And when graphed, looks like this:
+<p align="center">
+  <img src="assets/images/function2_x^3+x^2.png" width="300"/>
+</p>
 <br/><br/>
 Below information probably not needed
 
@@ -62,12 +70,7 @@ $$\xcancel{\lim_{\Delta x \to 0} \frac{f(x+\Delta x)-f(x)}{\Delta x}=f'(x)}$$
 
 ~~What is this limit definition saying?~~
 
-
-  2. Diffentiation
-      - First Derivatives 
-      [//]: # "I think this is a bad thing to summarize because there is context that needs to be given"
       - Second Derivatives and Beyond 
-      [//]: # "I think this is a bad thing to summarize because there is context that needs to be given"
       - Critical Points
       - Inexact and Exact Differentials
         - Exact differential follows the Fundamental Theorem of Calculus s.t. 
