@@ -18,15 +18,15 @@ The most probable distribution will have more particles at the lowest level then
 Effects of Temperature
 As high temperature there are more excited states
 At low temperature more particles are at ground state
-### Equilibria
-### Phase Diagrams
-### Kinetics
+
 
 ### Energy Levels (electronic, vibrational, rotational, translational)
 Electronic energy:
-Largest Energy. molecules are normally solids.
+Largest Energy. All molecular phases experience this type of energy.
+
+
 Vibrational Energy:
-we treat vibrating molecules as anharmonic oscillators (treated like a spring)
+Vibrating molecules are treated as harmonic oscillators (treated like a spring)
 bond stretching, bending, etc.
 Two forces: Force Constant (Kf) and Reduced Mass (\mu)
 reduced mass = (m1 x m2)/(m1 + m2)]
@@ -34,11 +34,12 @@ $$Evib = (i + 1/2)^2 (h^2/4π)(1/ud^2)$$
 $$d = displacement (length of vibration)$$
 ![This is an image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.stack.imgur.com%2FfZGnb.png&imgrefurl=https%3A%2F%2Fchemistry.stackexchange.com%2Fquestions%2F28287%2Flennard-jones-potential-and-vibrational-energy-level-diagram-explanation&tbnid=UYmZ6uh7GJI5iM&vet=12ahUKEwjQ-pmP_vP4AhXprnIEHbfBB_IQMygGegUIARDkAQ..i&docid=h-isnXSUwXSflM&w=2828&h=2612&q=vibrational%20energy&client=firefox-b-1-d&ved=2ahUKEwjQ-pmP_vP4AhXprnIEHbfBB_IQMygGegUIARDkAQ)
 Rotational Energy:
-Molecules can rotate(like a rigid motor). Generally, only gases and some liquids can rotate.
+Molecules can rotate (like a rigid rotor). Generally, only gases and some liquids can rotate.
 $$Erot = i(i+1)(h^2/8π^2)(1/uR^2)$$
 i = 0, 1, 2....
-R= bond length in meters
-translational energy:
+R = bond length in meters
+
+Translational energy:
 spaced extremely close together. No force constants in the equations. Molecules normally in the gas phase  
 $$Etrans = Enx,ny,nz = (nx^2 + ny^2 + nz^2)(h^2/8)(1/md^2)$$
 m = NOT reduced mass (normal mass)
@@ -92,9 +93,13 @@ From the first law of thermodynamics we can come up with the idea that energy is
 
 One way to think about entropy is through a probability lens. Entropy can be related to the Boltzmann constant where S = klnW where W is equal to n!/(n0!n1!n2!...nj!). Where n is the number of particles in the system. From this definition we can see that entropy will increase when the number of particles in a system increases. If we refer back to the Boltzmann distribution section we can also see that the entropy of the system will increase as the temperature increases.
 
+### Gibbs Free Energy
+
+Gibbs energy determines the spontaneous direction for a process at constant temperature and pressure and is thermodynamic state function defined by G = U - TS + PV (fix up) or G = H - TS.
 
 
-### Gibbs Free Energy  
+
+
 ### Thermodynamic Laws
 ## First Law
 The first law is:
@@ -118,6 +123,36 @@ Stronger bond energy is correlated with a lower ground state
 The second law is:
 ΔSuniverse = ΔS + ΔSsurr > 0
 ### Heat Capacity  
+
+### Equilibria
+### Phase Diagrams
+
+A phase diagram is a plot that shows gas curves, liquid curves, and solid curves relative to pressure and temperature.
+(insert picture of this)
+
+
+We can divide the phase diagram into three different regions or phases: gas, liquid, and solid.
+These regions are defined as the region where each phase has the lowest Gibbs Free Energy (most favorable) relative to the other phases and thus will be the only phase present.
+These regions are separated with boundary lines. Along these boundary lines the phases are in equilibrium and the ΔG is equal to 0.
+
+Additionally, from this phase diagram we should be able to relatively easily
+ identify the following temperatures and pressures:
+Standard Melting/Freezing Point:
+Melting point at standard pressure (go from solid to a liquid)
+Standard Boiling/Condensation Point:
+Boiling point at standard pressure (go from liquid to a gas)
+Triple Point:
+All three phases coexist in equilibrium. Here is a cool video of the triple point of water:
+Critical Point:
+End of the delineation of the liquid-gas boundary.
+At this point there becomes no effective distinction between the liquid and gas phases can be made.
+Instead we get what is called a supercritical fluid which has both gas and liquid like properties.
+Critical opalescence is an interesting phenomenon that occurs and leads to interesting light scattering.
+Here is a cool video of critical opalescence: (find video)
+
+
+### Kinetics
+
 ### Endo- vs Exo-thermic Processes
 ### Work and Force  
 
