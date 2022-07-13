@@ -11,7 +11,7 @@ usemathjax: true
 
 A limit is one of the most important parts of calculus. The idea of a limit sets the foundation of everything in calculus such that every formal definition of a derivative and an integral is defined through a limit. So! What is a limit? A limit looks like this:
 $$\lim_{x \to 0} (3x+1)$$
-where this function looks like this:
+where the function $3x+1$ looks like this:
 
 <p align="center">
   <img src="assets/images/function_3x+1.png" width="300"/>
@@ -22,6 +22,14 @@ and what our limit is asking is this: as $x$ approaches $0$, what does the funct
 $$\lim_{x \to 0} (3x+1)=1$$
 
 This is the simple idea of a limit, and we use this definition to define the rest of calculus. 
+
+<ins>Diffentiation/Derivative:</ins>
+
+A derivative is the instantaneous rate of change (can be visualized by the line tangent to the graph at a particular point) of a given function. For example: $$\frac{d}{dx}(2x)=2$$ is the derivative of 2x with respect to x, and the answer 2 is the slope/rate of change of 2x at all points on the function.
+
+The formal definition of a derivative is defined from this limit definition: 
+$$f'(x)=\lim_{\Delta x \to 0} \frac{f(x+\Delta x)-f(x)}{\Delta x}$$
+
 
   2. Diffentiation
       - What are derivatives?
