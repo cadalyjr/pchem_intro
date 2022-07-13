@@ -24,7 +24,8 @@ At low temperature more particles are at ground state
 
 ### Energy Levels (electronic, vibrational, rotational, translational)
 Electronic energy:
-Largest Energy. molecules are normally solids.
+  - Largest Energy
+  - Molecules are normally solids.
 Vibrational Energy:
 we treat vibrating molecules as anharmonic oscillators (treated like a spring)
 bond stretching, bending, etc.
