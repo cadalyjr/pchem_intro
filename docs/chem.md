@@ -64,24 +64,8 @@ Redlich-Kwong Equation
 
 
 #### Ideal gas law Equation: PV = nRT
-$$\left(\begin{matrix}
-1\\0\\0\\0\\0
-\end{matrix}\right)=
-C_1\left(\begin{matrix}
-0\\0\\-1\\1\\0
-\end{matrix}\right)
-+C_2\left(\begin{matrix}
-0\\0\\5.25\\-6.25\\1
-\end{matrix}\right)
-+C_3\left(\begin{matrix}
-2.03\\-1.37\\2.67\\-3.90\\1
-\end{matrix}\right)
-+C_4\left(\begin{matrix}
-9.87\\14.65\\0.92\\-10.24\\1
-\end{matrix}\right)
-+C_5\left(\begin{matrix}
-0\\0\\0\\1\\0
-\end{matrix}\right)$$
+The ideal gas law combine elemnts of the simple gas laws (Include simple gas laws) to represent the relationship between pressure, volume and temperature of a molecule in the gas phase.
+
 ### Energy Levels (electronic, vibrational, rotational, translational)
 ### Internal Energy
 Internal energy is the sum of all the energy of all the particles in the system. Internal energy is denoted with the symbol U. When we are referring to internal energy it is important to note that we are alluding to a state function. State functions or state variables are properties of a system that are determined by the current state of the system rather than the path which the system that got to that state (conveniently these are called path functions). We can see changes in the internal energy of a system in a couple of ways: the first (and one that we tend to not think about a lot and ignore) is by changing the number of particles within a system. The second and third are much more important and are heat (q) and work (w). Thus we can think about a change in internal energy as the sum of the heat added to and work applied to the system. While internal energy is a state function, heat and work are both path dependent. We will discuss work more thoroughly in another section of this website.
