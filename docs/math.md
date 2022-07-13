@@ -58,8 +58,10 @@ This is the simple idea of a limit, and we use this definition to define the res
 ## Algebra
   1. Multiplying One by One
   2. FOIL
-  3. Deriving Equations
-  4. Solving a System of Equations
+	$$(a+b)(c+d)$$
+	This will be in-line: $(a+b)(c+d)$
+  4. Deriving Equations
+  5. Solving a System of Equations
 
 ## Linear Algebra
   1. Eigen Functions
