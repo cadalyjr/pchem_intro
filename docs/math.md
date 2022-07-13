@@ -9,7 +9,9 @@ usemathjax: true
 ## Calculus
 <ins>Limits:</ins>
 
-A limit is one of the most important parts of calculus. The idea of a limit sets the foundation of everything in calculus such that every formal definition of a derivative and an integral is defined through a limit. So! What is a limit? A limit looks like this:
+A limit is one of the most important parts of calculus. The idea of a limit sets the foundation 
+of everything in calculus such that every formal definition of a derivative and an integral is defined 
+through a limit. So! What is a limit? A limit looks like this:
 $$\lim_{x \to 0} (3x+1)$$
 where the function $3x+1$ looks like this:
 
@@ -17,7 +19,8 @@ where the function $3x+1$ looks like this:
   <img src="assets/images/function_3x+1.png" width="300"/>
 </p>
 
-and what our limit is asking is this: as $x$ approaches $0$, what does the function $3x+1$ equal? Basically, if I zoomed in on this graph at $0$, what does the function equal? In this case:
+and what our limit is asking is this: as $x$ approaches $0$, what does the function $3x+1$ equal? 
+Basically, if I zoomed in on this graph at $0$, what does the function equal? In this case:
 
 $$\lim_{x \to 0} (3x+1)=1$$
 
@@ -25,16 +28,42 @@ This is the simple idea of a limit, and we use this definition to define the res
 
 <ins>Diffentiation/Derivative:</ins>
 
-A derivative is the instantaneous rate of change (can be visualized by the line tangent to the graph at a particular point) of a given function. For example: $$\frac{d}{dx}(2x)=2$$ is the derivative of 2x with respect to x, and the answer 2 is the slope/rate of change of 2x at all points on the function.
+A derivative is the instantaneous rate of change (can be visualized by the line tangent to the graph 
+at a particular point) of a given function. For example: $$\frac{d}{dx}(2x)=2$$ is the derivative of 
+$2x$ with respect to $x$, and the answer $2$ is the slope/rate of change of $2x$ at all points on the 
+function. This makes sense since the function $y=mx$ states that $m$ is the slope of the function $y$. 
+Therefore, the slope of $y=2x$ is $2$ which is what our derivative calculates. This definition of a 
+derivative generalizes to all functions! A function's instantaneous rate of change at any point can be 
+calculated through a derivative. Here are some differentation techniques that you will need to know:
+<br/><br/>
+Power Rule:
 
-The formal definition of a derivative is defined from this limit definition: 
-$$f'(x)=\lim_{\Delta x \to 0} \frac{f(x+\Delta x)-f(x)}{\Delta x}$$
+$$\frac{d}{dx}(x^n)=nx^{n-1}$$
+
+Product Rule:
+
+$$\frac{d}{dx}\Bigl(f(x)g(x)\Bigl)=f(x)g'(x)+f(x)g'(x)$$
+
+Quotient Rule:
+
+$$\frac{d}{dx}\left(\frac{f(x)}{g(x)}\right)=g'(x)f(x)-g(x)f'(x)$$
+
+Chain Rule (derivative of the inside multiplied by the derivative of the outside):
+
+$$\frac{d}{dx}\Bigl[f(g(x))\Bigl]=f'(g(x))g'(x)$$
+
+
+<br/><br/>
+Below information probably not needed
+
+~~The formal definition of a derivative is defined from this limit definition:~~ 
+
+$$\xcancel{\lim_{\Delta x \to 0} \frac{f(x+\Delta x)-f(x)}{\Delta x}=f'(x)}$$
+
+~~What is this limit definition saying?~~
 
 
   2. Diffentiation
-      - What are derivatives?
-        - A derivative is the instantuous rate of change (can be visualized by the line tangent to the graph at a particular point) of a given function. For example: $$\frac{d}{dx}(2x)=2$$ is the derivative of 2x with respect to x, and the answer 2 is the slope/rate of change of 2x at all points on the function. 
-        - The formal definition of a derivative is provided through this formula: $$f'(x)=\lim_{\Delta x \to 0} \frac{f(x+\Delta x)-f(x)}{\Delta x}$$
       - First Derivatives 
       [//]: # "I think this is a bad thing to summarize because there is context that needs to be given"
       - Second Derivatives and Beyond 
