@@ -9,6 +9,7 @@ usemathjax: true
 
 
 ## Chem 112/114
+
 ### Boltzmann Distribution  
 ### Equilibria
 ### Phase Diagrams
