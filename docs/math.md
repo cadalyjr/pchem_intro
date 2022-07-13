@@ -6,14 +6,6 @@ usemathjax: true
 
 {% include head.html %}
 
-$$ 
--\frac{\partial V(r)}{r}  
-$$
-[//]: # "What is this above equation for? - Ethan"
-$$ K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar) $$
-[//]: # "What is this above equation for? - Ethan"
-# Mathematics Concepts
-
 ## Calculus
 <ins>Limits:</ins>
 
