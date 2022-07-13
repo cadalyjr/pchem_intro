@@ -14,8 +14,10 @@ usemathjax: true
 ### Boltzmann Distribution
 Boltzmann Law
 $$nj/ni = e^-(Ej-Ei)/kT$$
+$$k=1.38 × 10^-23 j/k$$
 
-The most probable distribution will have more particles at the lowest level then at any other level.
+The most probable distribution will have more particles at the
+lowest level then at any other level.
 
 Effects of Temperature
 As high temperature there are more excited states
@@ -29,18 +31,21 @@ At low temperature more particles are at ground state
 Electronic energy:
 Largest Energy. molecules are normally solids.
 Vibrational Energy:
-we treat vibrating molecules as anharmonic oscillators (treated like a spring)
+we treat vibrating molecules as anharmonic oscillators (treated
+  like a spring)
 bond stretching, bending, etc.
+
 Two forces: Force Constant (Kf) and Reduced Mass (\mu)
-reduced mass = (m1 x m2)/(m1 + m2)]
 $$Evib = (i + 1/2)^2 (h^2/4π)(1/ud^2)$$
 $$d = displacement (length of vibration)$$
 ![This is an image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.stack.imgur.com%2FfZGnb.png&imgrefurl=https%3A%2F%2Fchemistry.stackexchange.com%2Fquestions%2F28287%2Flennard-jones-potential-and-vibrational-energy-level-diagram-explanation&tbnid=UYmZ6uh7GJI5iM&vet=12ahUKEwjQ-pmP_vP4AhXprnIEHbfBB_IQMygGegUIARDkAQ..i&docid=h-isnXSUwXSflM&w=2828&h=2612&q=vibrational%20energy&client=firefox-b-1-d&ved=2ahUKEwjQ-pmP_vP4AhXprnIEHbfBB_IQMygGegUIARDkAQ)
+
 Rotational Energy:
 Molecules can rotate(like a rigid motor). Generally, only gases and some liquids can rotate.
 $$Erot = i(i+1)(h^2/8π^2)(1/uR^2)$$
 i = 0, 1, 2....
 R= bond length in meters
+
 translational energy:
 spaced extremely close together. No force constants in the equations. Molecules normally in the gas phase  
 $$Etrans = Enx,ny,nz = (nx^2 + ny^2 + nz^2)(h^2/8)(1/md^2)$$
