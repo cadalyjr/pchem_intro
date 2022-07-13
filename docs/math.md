@@ -52,6 +52,10 @@ $$\frac{d}{dx}\left(\frac{f(x)}{g(x)}\right)=\frac{g(x)f'(x)-g'(x)f(x)}{(g(x))^2
 
 $$\frac{d}{dx}\Bigl[f(g(x))\Bigl]=f'(g(x))g'(x)$$
 
+Common notation types for derivatives which are all equivalent, let $y=f(x)$:
+
+$$\frac{dy}{dx}=\frac{d}{dx}(y)=\frac{df}{dx}=\frac{df(x)}{dx}=\frac{d}{dx}(f(x))$$
+
 Below information probably not needed
 
 ~~The formal definition of a derivative is defined from this limit definition:~~ 
