@@ -42,11 +42,11 @@ $$\frac{d}{dx}(x^n)=nx^{n-1}$$
 
 2. Product Rule:
 
-$$\frac{d}{dx}\Bigl(f(x)g(x)\Bigl)=f(x)g'(x)+f(x)g'(x)$$
+$$\frac{d}{dx}\Bigl(f(x)g(x)\Bigl)=f'(x)g(x)+f(x)g'(x)$$
 
 3. Quotient Rule:
 
-$$\frac{d}{dx}\left(\frac{f(x)}{g(x)}\right)=g'(x)f(x)-g(x)f'(x)$$
+$$\frac{d}{dx}\left(\frac{f(x)}{g(x)}\right)=\frac{g(x)f'(x)-g'(x)f(x)}{(g(x))^2}$$
 
 4. Chain Rule (derivative of the inside multiplied by the derivative of the outside):
 
@@ -70,17 +70,18 @@ $$\xcancel{\lim_{\Delta x \to 0} \frac{f(x+\Delta x)-f(x)}{\Delta x}=f'(x)}$$
 
 ~~What is this limit definition saying?~~
 
-      - Second Derivatives and Beyond 
-      - Critical Points
-      - Inexact and Exact Differentials
-        - Exact differential follows the Fundamental Theorem of Calculus s.t. 
-	$\frac{\partial f(x)}{\partial x} = f'(x)$
-  3. Summation
-  4. Integration
-      - Fundamental Theorem of Calculus
-      - Integral Table
-      - Polar Coordinates
-      - Multiple Integration
+
+- Second Derivatives and Beyond 
+- Critical Points
+- Inexact and Exact Differentials
+  - Exact differential follows the Fundamental Theorem of Calculus s.t. 
+$\frac{\partial f(x)}{\partial x} = f'(x)$
+3. Summation
+4. Integration
+    - Fundamental Theorem of Calculus
+    - Integral Table
+    - Polar Coordinates
+    - Multiple Integration
 
 ## Trigonometry
   1. Logarithms
