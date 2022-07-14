@@ -3,6 +3,7 @@ title: Math Review
 permalink: /math/
 usemathjax: true
 ---
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-AMS-MML_CHTML"></script>
 
 {% include head.html %}
 
@@ -13,7 +14,7 @@ A limit is one of the most important parts of calculus. The idea of a limit sets
 of everything in calculus such that every formal definition of a derivative and an integral is defined 
 through a limit. So! What is a limit? A limit looks like this:
 $$\lim_{x \to 0} (3x+1)$$
-where the function $3x+1$ looks like this:
+where the function \[ 3x+1 \] looks like this:
 
 <p align="center">
   <img src="assets/images/function1_3x+1.png" width="300"/>

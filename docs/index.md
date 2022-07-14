@@ -1,3 +1,4 @@
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-AMS-MML_CHTML"></script>
 ## Welcome to the Haverford CHEM304 and CHEM305 Preparation Site! (still under construction)
 
 Physical Chemistry courses can be quite
