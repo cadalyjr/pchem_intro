@@ -56,14 +56,6 @@ Common notation types for derivatives which are all equivalent, let $y=f(x)$:
 
 $$\frac{dy}{dx}=\frac{d}{dx}(y)=\frac{df}{dx}=\frac{df(x)}{dx}=\frac{d}{dx}(f(x))$$
 
-Below information probably not needed
-
-~~The formal definition of a derivative is defined from this limit definition:~~ 
-
-$$\xcancel{\lim_{\Delta x \to 0} \frac{f(x+\Delta x)-f(x)}{\Delta x}=f'(x)}$$
-
-~~What is this limit definition saying?~~
-
 ### <ins>Derivative Analysis:</ins>
 With derivatives, we can figure out a lot of interesting information about any particular function. Two important
 things we can learn about any function can be derived through its first and second derivatives. Take this function: 
