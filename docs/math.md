@@ -85,14 +85,18 @@ tells us that the slope of $f(x)$ is $3x^2+2x$ for all $x$. How about if we take
 
 $$f'(x)=3x^2+2x\rightarrow f''(x)=6x+2$$
 
-which tells us that the slope $f'(x)$ is $6x+2$ for all $x$. There are many different interesting things that we can learn 
+which tells us that the slope of $f'(x)$ is $6x+2$ for all $x$. There are many different interesting things that we can learn 
 about $f(x)$ given $f'(x)$ and $f''(x)$. Here are the various things you can learn from these new derivative functions:
-- Second Derivatives and Beyond 
-- Critical Points
-- Inexact and Exact Differentials
-  - Exact differential follows the Fundamental Theorem of Calculus s.t. 
-$\frac{\partial f(x)}{\partial x} = f'(x)$
-3. Summation
+- When the graph's slope becomes zero! Do this through figuring out when $f'(x)=0$
+
+- When does the graph go from positive slope to negative slope (also known as critical points)? Do this through the second derivative test. If $f''(x)>0$ when $f'(x)=0$, then the graph goes from a negative slope to a positive slope! If $f''(x)<0$ when $f'(x)=0$, then the graph goes from a positive slope to a negative slope. 
+
+- Is the graph concave up or down? Concave Up: $f''(x)>0$, Concave Down: $f''(x)<0$
+
+
+### <ins>Summation:</ins>
+
+### <ins>List of topics to include Below</ins>
 4. Integration
     - Fundamental Theorem of Calculus
     - Integral Table
