@@ -10,7 +10,7 @@ to review and reference material related to those
 skills.
 
 We've subdivided the resources on this website
-into three categories: [math](./math.md), [code](./code.md), and [chem](./chem.md).
+into three different categories: [math](./math.md), [code](./code.md), and [chem](./chem.md).
 
 On the [math](./math.md) page, you'll find
 descriptions of the math skills needed for Physical Chemistry as
