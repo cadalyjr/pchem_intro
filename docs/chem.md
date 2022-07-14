@@ -9,12 +9,12 @@ usemathjax: true
 
 
 # Chem 112/114
- 
+
 
 ## <ins> Boltzmann Distribution </ins>
 Boltzmann Law
 
- $$\frac{n_j}{n_i} = e^{-\frac{(\epsilon _j-\epsilon _i)}{kT}}$$ 
+ $$\frac{n_j}{n_i} = e^{-\frac{(\epsilon _j-\epsilon _i)}{kT}}$$
 
 where $k=1.38 × 10^{-23} \frac{j}{k}$, and $j\neq i$
 
@@ -41,9 +41,12 @@ Vibrating molecules are treated as harmonic oscillators (treated like a spring)
 
 bond stretching, bending, etc.
 
-Two forces: Force Constant ($k_f$) and Reduced Mass ($\mu$)
+Two forces: Force Constant ($$k_f$$) and Reduced Mass ($$\mu$$)
+
 $$\epsilon_{vib} = \Bigl(i+\frac{1}{2}\Bigl)^2 \Bigl(\frac{h^2}{4π^2}\Bigl)\Bigl(\frac{1}{\mu d^2}\Bigl)$$
+
 where $d = displacement \: (length \: of \: vibration)$ and $i = 0, 1, 2,\ldots$
+
 <p align="center">
   <img src="assets/images/potential_well.png" width="300"/>
 </p>
@@ -58,12 +61,14 @@ where $i = 0, 1, 2,\ldots$, $R = $ bond length in meters, and $\mu = $ reduced m
 
 
 Translational energy:
+
 $$\epsilon _{n_x,n_y,n_z} = \epsilon _{trans} = (n_x^2 + n_y^2 + n_z^2)\Bigl(\frac{h^2}{8}\Bigl)\Bigl(\frac{1}{md^2}\Bigl)$$
-R= bond length in meters
+
+$$R$$ = bond length in meters
 
 spaced extremely close together. No force constants in the equations. Molecules normally in the gas phase  
 
-$m =$ normal mass in kg (NOT REDUCED MASS), Ground state = $111$, First excited state = $211$
+$m =$ total mass in kg (NOT REDUCED MASS), Ground state = $111$, First excited state = $211$
 
 Multiple energies in one diagram
 <p align="center">
@@ -114,7 +119,7 @@ $$\Delta H = \Delta U + \Delta (PV) = \Delta U + P \Delta V + V \Delta P $$
 
 where at constant pressure
 
-$$\Delta H = \Delta U + P \Delta V $$ 
+$$\Delta H = \Delta U + P \Delta V $$
 
 We can see then that $\Delta H$ is equal to $q_p$.
 Therefore at a constant pressure $H$
