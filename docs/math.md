@@ -95,6 +95,15 @@ about $f(x)$ given $f'(x)$ and $f''(x)$. Here are the various things you can lea
 
 
 ### <ins>Summation:</ins>
+What is a summation? A summation is a formula that looks like this:
+$$1+2+3+4+\ldots+n=\infty$$
+This equation represents an infinite series that goes to infinity. These type of series are incredibly important in creating approximations of any type of function. However, having to write out the first 3-5 values of the series is very annoying! We are lazy, so mathematicans with their endless time have created some notation to make our lives easier. Here is an example of the notation:
+$$\sum_{n=1}^\infty n= 1+2+3+4+\ldots+n=\infty$$
+The symbol on the left is the summation symbol. It is read bottom to top (don't ask why), and it reads like this: starting with $n=1$ of the equation $n$, summate every value inbetween $n=1$ all the way up to $n=\infty$
+<br/><br/>
+Here is another example:
+
+$$\sum_{n=1}^\infty \frac{1}{n}= 1+\frac{1}{2}+\frac{1}{3}+\frac{1}{4}+\ldots+\frac{1}{n}=\infty$$
 
 ### <ins>List of topics to include Below</ins>
 4. Integration
