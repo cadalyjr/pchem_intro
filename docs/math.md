@@ -18,7 +18,7 @@ where the function $3x+1$ looks like this:
 <p align="center">
   <img src="assets/images/function1_3x+1.png" width="300"/>
 </p>
-# Test for VS Code Tutorial
+
 and what our limit is asking is this: as $x$ approaches $0$, what does the function $3x+1$ equal? 
 Basically, if I zoomed in on this graph at $0$, what does the function equal? In this case:
 
