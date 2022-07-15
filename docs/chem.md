@@ -167,6 +167,15 @@ $\Delta S_{universe} = \Delta S_{sys} + \Delta S_{surr} > 0$
 ## <ins> Heat Capacity <ins>
 
 ## <ins> Equilibria <ins>
+Most chemical reactions do not proceed only in one direction. Instead, reactions occur in both directions at the same time towards a state of equilibrium. No changes are observed at equilibrium.
+
+Two important ideas:
+
+- Equilibrium state can be predicted based upon probability
+
+- The predictive nature of probability is especially well suited to chemical system due to the large amount of particles involved in reactions.
+
+Equilibrium state is really just the most probable distribution of molecules
 ## <ins> Phase Diagrams <ins>
 
 A phase diagram is a plot that shows gas curves, liquid curves, and solid curves relative to pressure and temperature.
@@ -194,6 +203,19 @@ Here is a cool video of critical opalescence: (find video)
 
 
 ## <ins> Kinetics <ins>
+Kinetics is the study of chemical reaction rates, it helps answer the question of "How fast will a reaction occur". The basic data of chemical kinetics are usually the concentrations of reactants and products during the course of a reaction. It's important to remember that most chemical reactions are sensitive to temperature so the temperature of the reaction mixture must be held constant.
+
+Integrated rate law gives the time evolution of concentrations of the products and reactants. It's possible to determine the order of a reaction from experimental data with concentration v time on the axes to get an integrated rate law.
+
+First Order
+
+Half Lives
+
+Second Order
+
+Effects on Temperature
+
+Reaction Mechanisms
 
 ## <ins> Endo- vs Exo-thermic Processes <ins>
 ## <ins> Work and Force <ins>
