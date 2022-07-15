@@ -7,12 +7,29 @@ usemathjax: true
 
 # Chem 111/113  
 
+### Stoichiometry
 
-# Chem 112/114
+Know your general stoichiometric relationships and unit conversions. 
+
+Avogadro's Constant = $$\frac{6.022 x 10^23 molecules}{1 mol}$$
+1 mol of any gas at STP = $$\frac{22.4 L}{1 mol}$$
+Gram Formula Mass = $$\frac{molecular weight (g)}{1 mol}$$
+
+### Orbital Theory
+Molecular orbital theory is used to represent the distribution of electrons in a molecule for understanding bonding interactions between atoms. This theory can help us visualize how atomic orbitals combine by referring to wave functions.
+
+Bonded vs. Nonbonded Orbitals
+<p align="center">
+  <img src="assets/images/motheory_diagram.png" width="300"/>
+</p>
+
+Schrodinger Equation
+
+# Chemical Dynamics (112/114)
  
 
 ## <ins> Boltzmann Distribution </ins>
-Boltzmann Law
+### Boltzmann Law
 
  $$\frac{n_j}{n_i} = e^{-\frac{(\epsilon _j-\epsilon _i)}{kT}}$$ 
 
@@ -69,14 +86,19 @@ Multiple energies in one diagram
 <p align="center">
   <img src="assets/images/energy_levels_well.jpg" width="300"/>
 </p>
+
 ### Gas Laws
 Kinetic Theory of Gases
 
 
 
 Ideal Gas Equation of State
+$$\PV = nRT$$
+The ideal gas law is derived from the simple gas laws to represent the relationship between pressure, volume and temperature of a molecule in the gas phase.
 
-
+<p align="center">
+  <img src="assets/images/gaslaw_graphs.jpg" width="300"/>
+</p>
 
 van der Waals Equation
 
@@ -84,9 +106,6 @@ van der Waals Equation
 
 Redlich-Kwong Equation
 
-
-#### Ideal gas law Equation: $PV = nRT$
-The ideal gas law combine elemnts of the simple gas laws (Include simple gas laws) to represent the relationship between pressure, volume and temperature of a molecule in the gas phase.
 
 ### Energy Levels (electronic, vibrational, rotational, translational)
 ### Internal Energy
