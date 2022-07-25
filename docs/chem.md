@@ -167,7 +167,7 @@ $\Delta S_{universe} = \Delta S_{sys} + \Delta S_{surr} > 0$
 ## <ins> Heat Capacity <ins>
 
 ## <ins> Equilibria <ins>
-Most chemical reactions do not proceed only in one direction. Instead, reactions occur in both directions at the same time towards a state of equilibrium. No changes are observed at equilibrium.
+Most chemical reactions do not proceed only in one direction. Instead, reactions occur in both directions at the same time towards a state of equilibrium. No overall changes are observed at equilibrium
 
 Two important ideas:
 
