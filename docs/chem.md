@@ -22,6 +22,7 @@ Bonded vs. Nonbonded Orbitals
 <p align="center">
   <img src="assets/images/motheory_diagram.png" width="300"/>
 </p>
+Citation: https://chemed.chem.purdue.edu/genchem/topicreview/bp/ch8/mo.html
 
 Schrodinger Equation
 
@@ -97,7 +98,7 @@ $$\PV = nRT$$
 The ideal gas law is derived from the simple gas laws to represent the relationship between pressure, volume and temperature of a molecule in the gas phase.
 
 <p align="center">
-  <img src="assets/images/gaslaw_graphs.jpg" width="300"/>
+  <img src="assets/images/gaslaw_graphs.png" width="300"/>
 </p>
 
 van der Waals Equation
