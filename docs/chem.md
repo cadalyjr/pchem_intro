@@ -11,10 +11,31 @@ usemathjax: true
 
 # Chemical Dynamics (112/114)
 
+### Stoichiometry
+
+
+Know your general stoichiometric relationships and unit conversions. 
+
+Avogadro's Constant = $$\frac{6.022 x 10^23 molecules}{1 mol}$$
+1 mol of any gas at STP = $$\frac{22.4 L}{1 mol}$$
+Gram Formula Mass = $$\frac{molecular weight (g)}{1 mol}$$
+
+### Orbital Theory
+Molecular orbital theory is used to represent the distribution of electrons in a molecule for understanding bonding interactions between atoms. This theory can help us visualize how atomic orbitals combine by referring to wave functions.
+
+Bonded vs. Nonbonded Orbitals
+<p align="center">
+  <img src="assets/images/motheory_diagram.png" width="300"/>
+</p>
+Citation: https://chemed.chem.purdue.edu/genchem/topicreview/bp/ch8/mo.html
+
+Schrodinger Equation
+
+# Chemical Dynamics (112/114)
 
 
 ## <ins> Boltzmann Distribution </ins>
-Boltzmann Law
+### Boltzmann Law
 
  $$\frac{n_j}{n_i} = e^{-\frac{(\epsilon _j-\epsilon _i)}{kT}}$$
 
@@ -78,14 +99,23 @@ Multiple energies in one diagram
 <p align="center">
   <img src="assets/images/energy_levels_well.jpg" width="300"/>
 </p>
+
+
+### Gas Laws
+
 ## <ins> Gas Laws <ins>
+
 Kinetic Theory of Gases
 
 
 
 Ideal Gas Equation of State
+$$\PV = nRT$$
+The ideal gas law is derived from the simple gas laws to represent the relationship between pressure, volume and temperature of a molecule in the gas phase.
 
-
+<p align="center">
+  <img src="assets/images/gaslaw_graphs.png" width="300"/>
+</p>
 
 Van der Waals Equation
 
@@ -93,6 +123,10 @@ Van der Waals Equation
 
 Redlich-Kwong Equation
 
+
+
+### Energy Levels (electronic, vibrational, rotational, translational)
+### Internal Energy
 
 #### Ideal Gas Law
 $$PV = nRT$$
@@ -103,6 +137,7 @@ The ideal gas law combine elements of the simple gas laws (Include simple gas la
   - R = Gas Constant = 0.082057 ($$(L atm)/(mol K)$$)
 
 ## <ins> Internal Energy ins>
+
 Internal energy is the sum of all the energy of all the particles in the system.
 Internal energy is denoted with the symbol $$U$$.
 When we are referring to internal energy it is important to note that we are alluding to a state function.
